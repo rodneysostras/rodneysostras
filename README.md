@@ -9,12 +9,12 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;Gosto de explorar novas tecnologias e desenvolvedor soluções front-end.\
+💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções front-end.\
 🎓 &nbsp;Atualmente, sou graduado em bacharel em Sistema de Informação.\
 🌱 &nbsp;Estou no caminho certo para aprender mais sobre ReactJS & NodeJS.\
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo.\
 ✉️ &nbsp;Você pode me enviar um e-mail para rodney.sostras@gmail.com! Vou tentar responder assim que puder.\
-📄 &nbsp;Por favor, dê uma olhada no meu [curriculum](https://rodneysostras.github.io/curriculo) para mais detalhes sobre mim. Estou aberto a comentários e sugestões!
+📄 &nbsp;Por favor, dê uma olhada no meu [curriculo](https://cv.rodneysostras.me/) para mais detalhes sobre mim. Estou aberto a comentários e sugestões!
 
 ### 🛠 &nbsp;Tecnologias
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
