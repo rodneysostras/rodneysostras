@@ -52,8 +52,8 @@ o meu objetivo e se torno um desenvolvedor Full stack.
 ---
 
 <p align="center">
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodneysostras&theme=github_dark"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodneysostras&theme=github_dark"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodneysostras&theme=github_dark"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodneysostras&theme=github_dark"/>
 </p>
 
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rodneysostras" /> -->
