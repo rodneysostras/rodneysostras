@@ -32,7 +32,7 @@ o meu objetivo e se torno um desenvolvedor Full stack.
     </a>
 </p>
 
-## 🤩 Tecnologias que possuo competência
+## 🤩 Tecnologias que tenho competência
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@ o meu objetivo e se torno um desenvolvedor Full stack.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📚 Tecnologias que conheço e estou me aperfeiçoando
+## 📚 Tecnologias que conheço e estou estudando
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,8 +52,8 @@ o meu objetivo e se torno um desenvolvedor Full stack.
 ---
 
 <p align="center">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodneysostras&theme=github_dark"/>
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodneysostras&theme=github_dark"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodneysostras&theme=github_dark"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodneysostras&theme=github_dark"/>
 </p>
 
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rodneysostras" /> -->
