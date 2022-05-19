@@ -51,7 +51,7 @@ o meu objetivo e se torno um desenvolvedor Full stack.
 
 <p align="center">
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneysostras&layout=compact&langs_count=5&cache_seconds=86400&theme=vue" />
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodneysostras&theme=vue"/>
+  <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodneysostras&theme=vue"/>
 </p>
 
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rodneysostras" /> -->
