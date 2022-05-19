@@ -39,7 +39,7 @@ o meu objetivo e se torno um desenvolvedor Full stack.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📚 Tecnologias que conheço e estou estudando
+### 📚 Tecnologias que estou estudando
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,12 +50,12 @@ o meu objetivo e se torno um desenvolvedor Full stack.
 ---
 
 <p align="center">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodneysostras&theme=github_dark"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodneysostras&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneysostras&layout=compact&langs_count=5&cache_seconds=86400&theme=vue" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodneysostras&theme=vue"/>
 </p>
 
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rodneysostras" /> -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodneysostras.rodneysostras) -->
 <!-- ![](https://github-readme-stats-eight-theta.vercel.app/api?username=rodneysostras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneysostras&layout=compact&langs_count=5&cache_seconds=86400&theme=dark) -->
-
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneysostras&layout=compact&langs_count=5&cache_seconds=86400&theme=github_dark) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodneysostras&theme=github_dark) -->
