@@ -14,19 +14,15 @@ o meu objetivo e se torno um desenvolvedor Full stack.
     <a href="https://rodneysostras.me">
       <img src="https://img.shields.io/badge/%F0%9F%8C%90%20rodneysostras.me-191919?style=for-the-badge" />
     </a>
-    &nbsp;
     <a href="https://github.com/rodneysostras">
       <img src="https://img.shields.io/badge/rodneysostras-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
     </a>
-    &nbsp;
     <a href="https://linkedin.com/in/rodney-sostras">
       <img src="https://img.shields.io/badge/-rodney--sostras-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white "/>
     </a>
-    &nbsp;
     <a href="mailto:rodney.sostras@gmail.com">
       <img src="https://img.shields.io/badge/-rodney.sostras@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
-    &nbsp;
     <a href="https://wa.me/5521979310963">
       <img src="https://img.shields.io/badge/55%2021%209%207931--0963-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
     </a>
