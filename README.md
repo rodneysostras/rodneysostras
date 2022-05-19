@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/img/rodney-sostras-logo-cursiva.png" width="600rem" />
   
-  <h1>Olá, me chamo Rodney Sostras, sou Desenvolvedor Front-end</h1>
+  <h2>Olá, me chamo Rodney Sostras, sou Desenvolvedor Front-end</h2>
 </div>
 
 Estou focado e crescendo nas tecnologias voltada para web, 
@@ -28,7 +28,7 @@ o meu objetivo e se torno um desenvolvedor Full stack.
     </a>
 </p>
 
-## 🤩 Tecnologias que tenho competência
+### 🤩 Tecnologias que tenho competência
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +39,7 @@ o meu objetivo e se torno um desenvolvedor Full stack.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📚 Tecnologias que conheço e estou estudando
+### 📚 Tecnologias que conheço e estou estudando
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
