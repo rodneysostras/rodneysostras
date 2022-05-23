@@ -11,6 +11,7 @@ o meu objetivo e se torno um desenvolvedor Full stack.
 
 
 <p align = "center">
+    <img src="https://komarev.com/ghpvc/?username=rodneysostras&style=for-the-badge" />
     <a href="https://rodneysostras.me">
       <img src="https://img.shields.io/badge/%F0%9F%8C%90%20rodneysostras.me-191919?style=for-the-badge" />
     </a>
@@ -23,12 +24,9 @@ o meu objetivo e se torno um desenvolvedor Full stack.
     <a href="mailto:rodney.sostras@gmail.com">
       <img src="https://img.shields.io/badge/-rodney.sostras@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
-    <a href="https://wa.me/5521979310963">
-      <img src="https://img.shields.io/badge/55%2021%209%207931--0963-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
-    </a>
 </p>
 
-### 🤩 Tecnologias que trabalho
+### 🤩 Tecnologias que tenho domínio
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
