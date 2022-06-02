@@ -7,7 +7,7 @@
 Estou focado e crescendo nas tecnologias voltada para web, 
 tenho experiência com desenvolvimento da parte de front-end 
 agora estou se aprimorando em tecnologia back-end,
-o meu objetivo e se torno um desenvolvedor Full stack.
+o meu objetivo e se torna um desenvolvedor Full stack.
 
 
 <p align = "center">
